@@ -1,0 +1,24 @@
+{
+  "title": "The Time When the Network Becomes Idle",
+  "titleSlug": "the-time-when-the-network-becomes-idle",
+  "frontendQuestionId": "2039",
+  "leetcodeUrl": "https://leetcode.com/problems/the-time-when-the-network-becomes-idle/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "language": "java",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-14T14:31:08.847Z",
+  "runtimeMs": 102,
+  "memoryKb": 206029,
+  "totalCorrect": 50,
+  "totalTestcases": 50,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-14T14:31:09.209Z"
+}
