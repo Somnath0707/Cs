@@ -1,0 +1,20 @@
+{
+  "title": "Nearest Available Drone",
+  "titleSlug": "nearest-available-drone",
+  "frontendQuestionId": "4024",
+  "leetcodeUrl": "https://leetcode.com/problems/nearest-available-drone/",
+  "difficulty": "Easy",
+  "topics": [],
+  "language": "java",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-16T04:10:28.942Z",
+  "runtimeMs": 1,
+  "memoryKb": 47514,
+  "totalCorrect": 1000,
+  "totalTestcases": 1000,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-16T04:10:29.270Z"
+}
